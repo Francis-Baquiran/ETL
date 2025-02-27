@@ -1,0 +1,13 @@
+[folder]
+    # Please replace db and reports' value with the absolute paths of your machine
+    db = "C:\\Users\\baqui\\PycharmProjects\\Pyt\\data\\"
+    reports = "C:\\Users\\baqui\\PycharmProjects\\Pyt\\reports\\"
+[database]
+    xyz = "S30 ETL Assignment.db"
+[table]
+    sales = "sales"
+    orders = "orders"
+    customers = "customers"
+    items = "items"
+[column]
+    order = ["customer_id", "age", "item_name", "quantity"]
